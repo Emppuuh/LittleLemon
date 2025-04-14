@@ -1,4 +1,4 @@
-# Table Booking for the little lemon
+# Table Booking Demo for the little lemon
 
 A responsive and modern React web application for **Little Lemon Restaurant** that allows users to reserve a table effortlessly. Built as part of the Coursera Meta Front-End Developer Capstone Project.
 
